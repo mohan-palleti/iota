@@ -157,9 +157,10 @@ z-index:999;
 #videoFeature{
   position:absolute;
   width:100%;
-  height:auto;  
+  height:100%;  
   z-index:-1;
   top:0;
+  object-fit: cover;
 }
 
 .video-text{

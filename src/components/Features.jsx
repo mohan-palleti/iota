@@ -332,7 +332,7 @@ const Features = () => {
           </Carousel>
 
           {/*  */}
-          <Container maxW="container.lg" mb="8%">
+          <Container maxW="container.lg" pb="5%">
             <Grid
               templateColumns={{
                 sm: "repeat(3, 1fr)",
